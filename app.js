@@ -7,7 +7,7 @@ paragrafo.innerHTML = 'Escolha um numero entre 1 e 10';
 esse codigo não é errado, mas utilisando uma função conseguimos melhorar e abreviar nosso codigo
 
 */
-let numeroMaximo = 100
+let numeroMaximo = 50
 let listaDeNumeroSorteado = [];
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativa = 1; 
